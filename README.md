@@ -1,4 +1,4 @@
-# _Word Puzzle_
+# _Word Puzzle Ruby Restart Code Review_
 
 ##### _The user can type a sentence and outputs all the vowels in the string with '-', September 29, 2015_
 
