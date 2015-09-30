@@ -6,7 +6,7 @@
 
 ## Description
 
-_THe user inputs a sentence and the application would output a different sentence with all vowels in a word with "-"_
+_The user inputs a sentence and the application would output a different sentence with all vowels in a word with "-"_
 
 ## Setup
 
