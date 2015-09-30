@@ -1,6 +1,6 @@
 # _Word Puzzle_
 
-##### _The user types inputs a sentence and outputs a different string, September 29, 2015_
+##### _The user can type a sentence and outputs all the vowels in the string with '-', September 29, 2015_
 
 #### By _**Trevor Scherling**_
 
@@ -10,17 +10,15 @@ _The user inputs a sentence and the application would output a different sentenc
 
 ## Setup
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Clone repository with https://github.com/Rugbyman21/word_puzzle.git_
+* _In the Terminal, cd into the folder (ex. cd word_puzzle)_
+* _In the Terminal, type in 'ruby app.rb'_
+* _In the Browser, in the URL, type in localhost:4567_
 
-_{Leave nothing to chance! You want it to be easy for potential employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Are there other applications this app depends on?}_
 
 ## Technologies Used
 
-_{Tell me about the languages you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_Ruby, HTML, Rspec, Sinatra_
 
 ### Legal
 
